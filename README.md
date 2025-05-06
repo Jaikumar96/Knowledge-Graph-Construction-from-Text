@@ -37,7 +37,7 @@ It uses **LLM (OpenRouter + Qwen2.5)** to extract **entities and relations**, an
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/knowledge-graph-generator.git
+git clone https://github.com/Jaikumar 96/knowledge-graph-generator.git
 cd knowledge-graph-generator
 pip install -r requirements.txt
 ```
